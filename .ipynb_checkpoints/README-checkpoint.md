@@ -1,6 +1,6 @@
 # AFTE - Le Data mining pour les Trésoriers
 
-Programme 
+## Programme 
 
 **Jour 1**
 
@@ -19,10 +19,10 @@ Programme
     - Importance du “Design Thinking dans la création de tableaux de bord”.
     - Création de règles métiers en langage Python pour automatiser.
     - Réalisation d’un flux d'automatisation complet. 
+       
     
-    
-    
-Contenu: 
+## Contenu: 
+
 - Slides [Lien](https://docs.google.com/presentation/d/12QZwqChnbUhT4anVAQPj71JL1wRYfso9/edit#slide=id.p1) 
 - Cas 1: 💹 Email prédictif sur une valeur de marché [Accès](https://github.com/CashStory/AFTE/tree/main/01_Cas_Email_predictif) 
 - Cas 2: 📈 Tableau de bord données de marché  [Accès](https://github.com/CashStory/AFTE/tree/main/02_Cas_Donn%C3%A9es_de_march%C3%A9) 
